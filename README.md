@@ -2,16 +2,6 @@
 
 練習使用middleware記錄request的時間戳記/方法/url/作用時間顯示在server log
 
-## 專案畫面
-
-![image](https://github.com/Denniscc0303/Images/blob/master/2-3%20A12%20%E8%80%81%E7%88%B8%E7%9A%84%E7%A7%81%E6%88%BF%E9%8C%A2_index_Dennis_20210205.JPG)
-
-![image](https://github.com/Denniscc0303/Images/blob/master/2-3%20A12%20%E8%80%81%E7%88%B8%E7%9A%84%E7%A7%81%E6%88%BF%E9%8C%A2_new_20210205.JPG)
-
-![image](https://github.com/Denniscc0303/Images/blob/master/2-3%20A12%20%E8%80%81%E7%88%B8%E7%9A%84%E7%A7%81%E6%88%BF%E9%8C%A2_edit_20210205.JPG)
-
-![image](https://github.com/Denniscc0303/Images/blob/master/2-3%20A12%20%E8%80%81%E7%88%B8%E7%9A%84%E7%A7%81%E6%88%BF%E9%8C%A2_filter_Dennis_20210205.JPG)
-
 ## Features - 產品功能
 
 1. 使用者可以在切換路由時在server上記錄request 時間戳記
