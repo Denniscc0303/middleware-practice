@@ -7,7 +7,7 @@
 1. 使用者可以在切換路由時在server上記錄request 時間戳記
 2. 使用者可以在切換路由時在server上記錄request 方法
 3. 使用者可以在切換路由時在server上記錄request 路由
-4. 使用者可以在切換路由時在server上記錄request 收到請求與送出回應的時間差
+4. 使用者可以在切換路由時在server上記錄收到請求與送出回應的時間差
 
 ## Environment SetUp - 環境建置
 
